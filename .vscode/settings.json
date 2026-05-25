@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\hp\\Downloads\\opencv\\build\\java\\opencv-4110.jar"
+    ]
+}
